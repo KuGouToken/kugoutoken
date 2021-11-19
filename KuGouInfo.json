@@ -1,0 +1,11 @@
+{
+ "name": "KuGouToken",
+ "website": "https://www.kugouex.com",
+ "description": "",
+ "explorer": "https://bscscan.com/address/0xe29d4757C806F649B512CDcE768D5db63d3b3568",
+ "type": "BEP-20",
+ "symbol": "KGT",
+ "decimals": 18,
+ "status": "active",
+ "id": "0xe29d4757C806F649B512CDcE768D5db63d3b3568"
+}
